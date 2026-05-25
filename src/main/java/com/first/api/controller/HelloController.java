@@ -44,7 +44,7 @@ public class HelloController {
     //Otro comentario
     @GetMapping("/hello7")
     public String saludar7(){
-        return "Hola Mundo con HELLO 7 con REST en Spring Boot";
+        return "Hola Mundo con HELLO 7 OK con REST en Spring Boot";
     }
 }
 
